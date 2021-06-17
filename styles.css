@@ -2,26 +2,28 @@ body{
     margin: 0%;
 }
 
-section{
-    margin: auto;
-    width: 80%;
-    text-align: left;
+header{
+    background-color: gray;
 }
 
 img{
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-h1, h2{
+header h1, h2{
     background-color: rgb(185, 188, 196);
     color: rgb(84, 84, 167);
     width: 100%;
 }
 
-footer{
-    color: white;
-    background-color: rgb(79, 79, 221);
-    width: 100%;
+section{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15%;
+    margin-bottom: 15%;
+    width: 80%;
+    text-align: left;
 }
 
 ul{
@@ -30,4 +32,14 @@ ul{
 
 ul ul{
     list-style-type: none;
+}
+
+footer{
+    color: white;
+    background-color: rgb(84, 84, 167);
+    width: 100%;
+}
+
+footer a{
+    color: gray;
 }
