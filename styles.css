@@ -1,6 +1,11 @@
 section{
     margin: auto;
+    width: 80%;
     text-align: left;
+}
+
+img{
+    margin: auto;
 }
 
 h1, h2{
@@ -11,4 +16,12 @@ h1, h2{
 footer{
     color: white;
     background-color: rgb(79, 79, 221);
+}
+
+ul{
+    list-style-type: circle;
+}
+
+ul ul{
+    list-style-type: none;
 }
