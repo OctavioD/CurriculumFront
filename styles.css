@@ -1,0 +1,14 @@
+section{
+    margin: auto;
+    text-align: left;
+}
+
+h1, h2{
+    background-color: rgb(140, 141, 143);
+    color: rgb(50, 50, 255);
+}
+
+footer{
+    color: white;
+    background-color: rgb(79, 79, 221);
+}
