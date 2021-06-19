@@ -22,8 +22,8 @@ header #seccion-titulo h1, #main h2{
     color: rgb(90, 90, 185);
     width: 100%;
     text-align: center;
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
+    margin-top: 00.2em;
+    margin-bottom: 00.2em;
 }
 
 #main{
@@ -34,6 +34,7 @@ header #seccion-titulo h1, #main h2{
     margin-bottom: 8%;
     width: 80%;
     text-align: left;
+    padding: 00.2em;
 }
 
 ul{
