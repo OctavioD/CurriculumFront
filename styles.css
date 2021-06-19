@@ -27,7 +27,7 @@ header #seccion-titulo h1, #main h2{
 }
 
 #main{
-    background-color: rgb(rgb(240, 240, 172));
+    background-color: rgb(240, 240, 172);
     margin-left: auto;
     margin-right: auto;
     margin-top: 8%;
@@ -47,7 +47,6 @@ ul ul{
 
 footer{
     padding: 1%;
-    color: white;
     background-color: rgb(90, 90, 185);
     width: 100%;
     margin-bottom: 1%;
@@ -57,6 +56,6 @@ footer{
 footer a i{
     width: 3%;
     height: auto;
-    color: rgb(white);
+    color: white;
     margin: auto;
 }
