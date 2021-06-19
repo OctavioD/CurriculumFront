@@ -5,12 +5,13 @@ body{
 }
 
 header{
-    background-color: rgb(173, 173, 173);
+    background-image: url(/ROOT-Clase7/img/skyImg.jpg);
+    background-size: cover;
 }
 
-header img{
-    margin-left: auto;
-    margin-right: auto;
+#sky-div{
+    height: 5%;
+    width: max-content;
 }
 
 header #seccion-titulo{
