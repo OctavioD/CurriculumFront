@@ -8,7 +8,7 @@ header #sky-div{
     height: 10em;
     width: auto;
     padding: 0.2em;
-    background-image: url(/ROOT-Clase7/img/skyImg.jpg);
+    background-image: url("/ROOT-Clase7/img/skyImg.jpg");
     background-size: cover;
 }
 
@@ -32,6 +32,10 @@ header #seccion-titulo h1, #main h2{
     width: 80%;
     text-align: left;
     padding: 00.2em;
+}
+
+#main h2{
+    margin-block: 0em;
 }
 
 #main span{
