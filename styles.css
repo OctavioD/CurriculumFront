@@ -13,14 +13,19 @@ header img{
     margin-right: auto;
 }
 
-header h1, h2{
+header #seccion-titulo{
+    padding: 1%;
+}
+
+header #seccion-titulo h1, #main h2{
     background-color: rgb(173, 173, 173);
     color: rgb(90, 90, 185);
     width: 100%;
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-main{
+#main{
     background-color: rgb(rgb(240, 240, 172));
     margin-left: auto;
     margin-right: auto;
@@ -48,7 +53,8 @@ footer{
 }
 
 footer a i{
-    width: 2%;
+    width: 3%;
     height: auto;
     color: rgb(white);
+    margin: auto;
 }
