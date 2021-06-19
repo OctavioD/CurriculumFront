@@ -5,11 +5,12 @@ body{
 }
 
 header #sky-div{
-    height: 10em;
+    height: 20em;
     width: auto;
     padding: 0.2em;
-    background-image: url("/CurriculumFront/img/aestheticSky.jpg");
-    background-size: cover;
+    background-image: url("/CurriculumFront/img/aestheticSky2.jpg");
+    background-size: 50em 21em;
+    background-attachment: fixed;
 }
 
 header #seccion-titulo{
