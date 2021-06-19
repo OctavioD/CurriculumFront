@@ -8,7 +8,7 @@ header #sky-div{
     height: 10em;
     width: auto;
     padding: 0.2em;
-    background-image: url("/ROOT-Clase7/img/skyImg.jpg");
+    background-image: url("/CurriculumFront/img/skyImg.jpg");
     background-size: cover;
 }
 
