@@ -4,14 +4,11 @@ body{
     font-family: 'Open Sans', sans-serif;
 }
 
-header{
-    background-image: url(/ROOT-Clase7/img/skyImg.jpg);
-    background-size: cover;
-}
-
-#sky-div{
+header #sky-div{
     height: 5%;
     width: max-content;
+    background-image: url(/ROOT-Clase7/img/skyImg.jpg);
+    background-size: cover;
 }
 
 header #seccion-titulo{
@@ -36,6 +33,10 @@ header #seccion-titulo h1, #main h2{
     width: 80%;
     text-align: left;
     padding: 00.2em;
+}
+
+#main span{
+    font-weight: bold;
 }
 
 ul{
