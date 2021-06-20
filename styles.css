@@ -2,19 +2,19 @@ body{
     background-color:rgb(193, 240, 237);
     margin: 0%;
     font-family: 'Open Sans', sans-serif;
+    position: absolute;
 }
 
 header #sky-div{
     height: 20em;
     width: auto;
     padding: 0.2em;
-    background-color: cornflowerblue;
-    background-size: 50em 21em;
+    background-image: url(/CurriculumFront/img/aestheticSky2.jpg), linear-gradient(70deg, rgb(90, 83, 112), pink);
+    background-size: 35em 17em, cover;
     background-attachment: fixed;
-}
-
-header #sky-div img{
-    margin: auto;
+    background-repeat: no-repeat;
+    background-position-x: center, center;
+    background-position-y: 1.8em, 0em;
 }
 
 header #seccion-titulo{
