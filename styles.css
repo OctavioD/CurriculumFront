@@ -72,10 +72,6 @@ section button:hover{
     font-family: 'Open Sans';
 }
 
-section button a:-webkit-any-link{
-    color: rgb(90, 90, 185);
-    text-decoration: none;
-}
 footer{
     padding: 0.3em;
     background-color: rgb(90, 90, 185);
