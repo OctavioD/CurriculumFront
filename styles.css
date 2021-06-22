@@ -8,7 +8,7 @@ header #sky-div{
     height: 20em;
     width: auto;
     padding: 0.2em;
-    background-image: url(/CurriculumFront/img/aestheticSky2.jpg), linear-gradient(70deg, rgb(90, 83, 112), pink);
+    background-image: url(/CurriculumFront/img/imagenPersonal1.jpg), linear-gradient(70deg, rgb(90, 83, 112), rgb(96, 40, 148));
     background-size: 35em 17em, cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
